@@ -20,11 +20,11 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "$BOIFE - Bonk Is For Everyone | The People's Meme Coin",
+  title: "$BIFE - Bonk Is For Everyone | The People's Meme Coin",
   description:
-    "$BOIFE is the fair-launched meme coin for the people, powered by Bonk's revolutionary platform. Join the decentralized meme revolution on Solana!",
+    "$BIFE is the fair-launched meme coin for the people, powered by Bonk's revolutionary platform. Join the decentralized meme revolution on Solana!",
   generator:
-    "$BOIFE, meme coin, Bonk, Solana meme coins, community coin, fair launch crypto, decentralized meme tokens, viral crypto, Bonk platform, letsbonk.fun",
+    "$BIFE, meme coin, Bonk, Solana meme coins, community coin, fair launch crypto, decentralized meme tokens, viral crypto, Bonk platform, letsbonk.fun",
   keywords: [
     "meme coin",
     "Bonk meme coin",
@@ -35,10 +35,10 @@ export const metadata: Metadata = {
     "viral crypto projects",
     "bonk-powered launch",
     "letsbonk.fun",
-    "$BOIFE",
+    "$BIFE",
     "Solana blockchain",
     "Bonk Is For Everyone",
-    "BOIFE community",
+    "BIFE community",
     "Bonk launchpad",
     "anti-whale launch",
     "airdrops and meme contests",
@@ -58,28 +58,28 @@ export const metadata: Metadata = {
     "people's meme coin",
   ],
 
-  applicationName: "$BOIFE",
+  applicationName: "$BIFE",
   openGraph: {
-    title: "$BOIFE - Bonk Is For Everyone | The People's Meme Coin",
+    title: "$BIFE - Bonk Is For Everyone | The People's Meme Coin",
     description:
-      "Join $BOIFE, the meme coin for everyone! No presales, no whales, just pure community-driven fun on Solana’s Bonk-powered launchpad.",
-    url: "https://www.boife.fun", // <-- Update this URL to your real $BOIFE website if different
-    siteName: "$BOIFE",
+      "Join $BIFE, the meme coin for everyone! No presales, no whales, just pure community-driven fun on Solana’s Bonk-powered launchpad.",
+    url: "https://www.BIFE.fun", // <-- Update this URL to your real $BIFE website if different
+    siteName: "$BIFE",
     images: [
       {
-        url: "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.png", // <-- Replace if you have a $BOIFE image
+        url: "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.png", // <-- Replace if you have a $BIFE image
         width: 1200,
         height: 630,
-        alt: "$BOIFE - Bonk Is For Everyone",
+        alt: "$BIFE - Bonk Is For Everyone",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@BOIFEcoin", // <-- Make sure this is your real Twitter handle
-    title: "$BOIFE - Boife Is For Everyone | The People's Meme Coin",
+    site: "@BIFEcoin", // <-- Make sure this is your real Twitter handle
+    title: "$BIFE - BIFE Is For Everyone | The People's Meme Coin",
     description:
-      "Fair-launched, community-powered, and built on Solana. Discover $BOIFE and join the meme revolution!",
+      "Fair-launched, community-powered, and built on Solana. Discover $BIFE and join the meme revolution!",
     images:
       "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.pngaos", // <-- Replace if needed
   },
