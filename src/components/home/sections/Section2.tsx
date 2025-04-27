@@ -65,9 +65,9 @@ function Section2() {
                 "linear-gradient(to right, #fc8e03 40%, #fc8e03 40%, #ffd302 100%)",
             }}
           >
-            <Header1 className=" text-white ">ABOUT BONKIN</Header1>
+            <Header1 className=" text-white ">ABOUT EVERYTHING IS BONKIN</Header1>
             <Paragraph1 className="text-white font-bold">
-              BONKIN IS THE SOCIAL LAYER AND COMMUNITY MEME COIN OF SOLANA WITH
+              EVERYTHING IS BONKIN IS THE SOCIAL LAYER AND COMMUNITY MEME COIN OF SOLANA WITH
               DEEP INTEGRATIONS AS A UTILITY TOKEN ACROSS A WIDE BASE OF
               APPLICATIONS AND PROTOCOLS WITHIN THE WEB3 ECOSYSTEM. WE AIM TO
               ACHIEVE THIS THROUGH EXPANDING OUR GROWING LIST OF INTEGRATIONS
@@ -98,7 +98,7 @@ function Section2() {
                   "linear-gradient(to right, #fc8e03 40%, #fc8e03 40%, #ffd302 100%)",
               }}
             >
-              <Header1 className=" text-white ">USe BONKIN</Header1>
+              <Header1 className=" text-white ">USe EVERYTHING IS BONKIN</Header1>
 
               <div className="flex gap-4 flex-col mt-4 ">
                 {" "}
@@ -128,12 +128,12 @@ function Section2() {
                   "linear-gradient(to right, #ff5c01 10%, #fc8e03 40%, #ffd302 100%)",
               }}
             >
-              <Header1 className=" text-white ">Get BONKIN</Header1>
+              <Header1 className=" text-white ">Get EVERYTHING IS BONKIN</Header1>
 
               <div className="flex gap-4 flex-col mt-4 ">
                 {" "}
                 <Paragraph1 className="text-white font-bold">
-                  40+ DEXS & CEXES, BUY BONKIN TODAY
+                  40+ DEXS & CEXES, BUY EVERYTHING IS BONKIN TODAY
                 </Paragraph1>
               </div>
             </div>
@@ -152,12 +152,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/botsa.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">BONKIN bot </Header3>
+                <Header3 className=" text-white ">EVERYTHING IS BONKIN bot </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Telegram bot for buying BONKIN and more{" "}
+                    Telegram bot for buying EVERYTHING IS BONKIN and more{" "}
                   </Paragraph1>
                 </div>
               </div>
@@ -171,7 +171,7 @@ function Section2() {
                 }}
               >
                 <img src="/images/swap.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">BONKIN SWAP </Header3>
+                <Header3 className=" text-white ">EVERYTHING IS BONKIN SWAP </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
@@ -190,12 +190,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/ware.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">BONKINREWARDS </Header3>
+                <Header3 className=" text-white ">EVERYTHING IS BONKINREWARDS </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Earn rewards by locking your $BONKIN{" "}
+                    Earn rewards by locking your $EVERYTHING IS BONKIN{" "}
                   </Paragraph1>
                 </div>
               </div>{" "}
@@ -229,12 +229,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/bet.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">BONKINBETS </Header3>
+                <Header3 className=" text-white ">EVERYTHING IS BONKINBETS </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    A web3 sportsbook by LuckyDragonTail. Bet with BONKIN, SOL,
+                    A web3 sportsbook by LuckyDragonTail. Bet with EVERYTHING IS BONKIN, SOL,
                     or USDC—no deposits needed.{" "}
                   </Paragraph1>
                 </div>
@@ -249,12 +249,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/scoo.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">BONKIN SCOOPER </Header3>
+                <Header3 className=" text-white ">EVERYTHING IS BONKIN SCOOPER </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Clean up your wallets and earn BONKIN{" "}
+                    Clean up your wallets and earn EVERYTHING IS BONKIN{" "}
                   </Paragraph1>
                 </div>
               </div>{" "}
@@ -268,12 +268,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/openb.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">OPENBONKIN </Header3>
+                <Header3 className=" text-white ">OPENEVERYTHING IS BONKIN </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Swap $BONKIN on OpenBook's DEX{" "}
+                    Swap $EVERYTHING IS BONKIN on OpenBook's DEX{" "}
                   </Paragraph1>
                 </div>
               </div>

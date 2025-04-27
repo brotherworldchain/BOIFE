@@ -34,7 +34,7 @@ function Footer() {
 
           <div className=" border-t border-black pt-[24px] sm:pt-[32px] flex justify-center">
             <ParagraphLink2 className="  text-[#ECECEC]- ">
-              © 2025 BONKIN. All rights reserved.{" "}
+              © 2025 EVERYTHING IS BONKIN. All rights reserved.{" "}
             </ParagraphLink2>
           </div>
         </div>

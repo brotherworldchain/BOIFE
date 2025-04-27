@@ -36,10 +36,10 @@ function section6() {
             <div className="flex flex-col items-center text-center xl:gap-[24px] text-white w-full pb-[64px]">
               <Header1Plus>
                 <span className="text-l_green">Together</span>, let's fuel the
-                rise of the $BONKIN revolution!
+                rise of the $EIB revolution!
               </Header1Plus>
               <Paragraph1 className="max-w-[883px]">
-                Join us as we take $BONKIN from a fair launch to the next
+                Join us as we take $EIB from a fair launch to the next
                 legendary meme coin on Solana!
               </Paragraph1>
 

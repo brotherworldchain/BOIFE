@@ -64,12 +64,13 @@ function Navbar() {
 
           container1 pt-2 flex justify-between xl:justify-center- gap-[50px]    font-semibold- w-full items-center`}
         >
-          <Link href="/" className={`flex items-center  rounded-lg `}>
+          <Link href="/" className={`flex items-center gap-2 rounded-lg `}>
             <img
               src="/images/logo.png"
               alt=""
               className="xl:h-[51px] h-[41px] xl:flex hidden-"
             />
+            <p className="  text-[18px] font-bold">EVERYTHING IS BONKIN</p>
           </Link>
           <div className="lg:hidden">
             <button onClick={toggleMenu} className="focus:outline-none">
@@ -116,7 +117,7 @@ function Navbar() {
               </ParagraphLink1>
             </Link>
 
-            <Link href="https://bonk.sfo3.cdn.digitaloceanspaces.com/docs/BONieK-Paper.pdf">
+            {/* <Link href="https://bonk.sfo3.cdn.digitaloceanspaces.com/docs/BONieK-Paper.pdf">
               {" "}
               <ParagraphLink1
                 className={
@@ -128,7 +129,7 @@ function Navbar() {
               >
                 White paper
               </ParagraphLink1>
-            </Link>
+            </Link> */}
           </div>
         </div>
 
@@ -175,7 +176,7 @@ function Navbar() {
                 onClick={toggleMenu}
               >
                 {" "}
-                <ParagraphLink1
+                {/* <ParagraphLink1
                   className={
                     pathname ===
                     "https://bonk.sfo3.cdn.digitaloceanspaces.com/docs/BOgggsdNK-Paper.pdf"
@@ -184,7 +185,7 @@ function Navbar() {
                   }
                 >
                   White Paper
-                </ParagraphLink1>
+                </ParagraphLink1> */}
               </Link>
 
               {/* <CurrencySwitcher />
