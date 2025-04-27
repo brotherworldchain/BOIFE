@@ -74,7 +74,7 @@ function ElevatingBrands() {
           }}
         >
           <h1 className=" text-white text-[14px] font-bold sm:text-[34px] ">
-            911k +
+            911k+
           </h1>
 
           <div className="flex gap-4 flex-col ">
@@ -94,7 +94,7 @@ function ElevatingBrands() {
           }}
         >
           <h1 className=" text-white text-[14px] font-bold sm:text-[34px] ">
-            400 +
+            400+
           </h1>
 
           <div className="flex gap-4 flex-col ">
