@@ -77,7 +77,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     site: "@BOIFEcoin", // <-- Make sure this is your real Twitter handle
-    title: "$BOIFE - Bonk Is For Everyone | The People's Meme Coin",
+    title: "$BOIFE - Boife Is For Everyone | The People's Meme Coin",
     description:
       "Fair-launched, community-powered, and built on Solana. Discover $BOIFE and join the meme revolution!",
     images:
