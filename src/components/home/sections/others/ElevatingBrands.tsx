@@ -66,52 +66,62 @@ function ElevatingBrands() {
       <div className="flex text-center px-4 items-center justify-center w-full py-[50px] sm:py-[100px] gap-2 sm:gap-20">
         <div
           data-aos="zoom-in-right"
-          className=" border-[3px] rounded-[20px] p-4 sm:px-[50px]"
+          className=" border-[3px] rounded-[20px] p-4 sm:px-[100px]"
           style={{
             // height: "140vh",
             background:
               "linear-gradient(to bottom, #ff5c01 10%, #fc8e03 40%, #ffd302 100%)",
           }}
         >
-          <Header3 className=" text-white ">911k +</Header3>
+          <h1 className=" text-white text-[14px] font-bold sm:text-[34px] ">
+            911k +
+          </h1>
 
           <div className="flex gap-4 flex-col ">
             {" "}
-            <Paragraph1 className="text-white font-bold">Holders </Paragraph1>
+            <p className="text-white font-bold text-[12px] sm:text-[16px]">
+              Holders{" "}
+            </p>
           </div>
         </div>
         <div
           data-aos="zoom-in-up"
-          className=" border-[3px] rounded-[20px] p-4 sm:px-[50px]"
+          className=" border-[3px] rounded-[20px] p-4 sm:px-[100px]"
           style={{
             // height: "140vh",
             background:
               "linear-gradient(to bottom, #ff5c01 10%, #fc8e03 40%, #ffd302 100%)",
           }}
         >
-          <Header3 className=" text-white ">400 +</Header3>
+          <h1 className=" text-white text-[14px] font-bold sm:text-[34px] ">
+            400 +
+          </h1>
 
           <div className="flex gap-4 flex-col ">
             {" "}
-            <Paragraph1 className="text-white font-bold">
+            <p className="text-white font-bold text-[12px] sm:text-[16px]">
               Integrations{" "}
-            </Paragraph1>
+            </p>
           </div>
         </div>
         <div
           data-aos="zoom-in-left"
-          className=" border-[3px] rounded-[20px] p-4 sm:px-[50px]"
+          className=" border-[3px] rounded-[20px] p-4 sm:px-[100px]"
           style={{
             // height: "140vh",
             background:
               "linear-gradient(to bottom, #ff5c01 10%, #fc8e03 40%, #ffd302 100%)",
           }}
         >
-          <Header3 className=" text-white ">13</Header3>
+          <h1 className=" text-white text-[14px] font-bold sm:text-[34px] ">
+            13
+          </h1>
 
           <div className="flex gap-4 flex-col ">
             {" "}
-            <Paragraph1 className="text-white font-bold">chains </Paragraph1>
+            <p className="text-white font-bold text-[12px] sm:text-[16px]">
+              chains{" "}
+            </p>
           </div>
         </div>
       </div>
