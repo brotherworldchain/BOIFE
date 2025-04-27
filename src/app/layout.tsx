@@ -20,11 +20,11 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "$BIFE - Bonk Is For Everyone | The People's Meme Coin",
+  title: "$BONKIN - Bonk Is For Everyone | The People's Meme Coin",
   description:
-    "$BIFE is the fair-launched meme coin for the people, powered by Bonk's revolutionary platform. Join the decentralized meme revolution on Solana!",
+    "$BONKIN is the fair-launched meme coin for the people, powered by Bonk's revolutionary platform. Join the decentralized meme revolution on Solana!",
   generator:
-    "$BIFE, meme coin, Bonk, Solana meme coins, community coin, fair launch crypto, decentralized meme tokens, viral crypto, Bonk platform, letsbonk.fun",
+    "$BONKIN, meme coin, Bonk, Solana meme coins, community coin, fair launch crypto, decentralized meme tokens, viral crypto, Bonk platform, letsbonk.fun",
   keywords: [
     "meme coin",
     "Bonk meme coin",
@@ -35,10 +35,10 @@ export const metadata: Metadata = {
     "viral crypto projects",
     "bonk-powered launch",
     "letsbonk.fun",
-    "$BIFE",
+    "$BONKIN",
     "Solana blockchain",
     "Bonk Is For Everyone",
-    "BIFE community",
+    "BONKIN community",
     "Bonk launchpad",
     "anti-whale launch",
     "airdrops and meme contests",
@@ -58,28 +58,28 @@ export const metadata: Metadata = {
     "people's meme coin",
   ],
 
-  applicationName: "$BIFE",
+  applicationName: "$BONKIN",
   openGraph: {
-    title: "$BIFE - Bonk Is For Everyone | The People's Meme Coin",
+    title: "$BONKIN - Bonk Is For Everyone | The People's Meme Coin",
     description:
-      "Join $BIFE, the meme coin for everyone! No presales, no whales, just pure community-driven fun on Solana’s Bonk-powered launchpad.",
-    url: "https://www.BIFE.fun", // <-- Update this URL to your real $BIFE website if different
-    siteName: "$BIFE",
+      "Join $BONKIN, the meme coin for everyone! No presales, no whales, just pure community-driven fun on Solana’s Bonk-powered launchpad.",
+    url: "https://www.BONKIN.fun", // <-- Update this URL to your real $BONKIN website if different
+    siteName: "$BONKIN",
     images: [
       {
-        url: "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.png", // <-- Replace if you have a $BIFE image
+        url: "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.png", // <-- Replace if you have a $BONKIN image
         width: 1200,
         height: 630,
-        alt: "$BIFE - Bonk Is For Everyone",
+        alt: "$BONKIN - Bonk Is For Everyone",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@BIFEcoin", // <-- Make sure this is your real Twitter handle
-    title: "$BIFE - BIFE Is For Everyone | The People's Meme Coin",
+    site: "@BONKINcoin", // <-- Make sure this is your real Twitter handle
+    title: "$BONKIN - BONKIN Is For Everyone | The People's Meme Coin",
     description:
-      "Fair-launched, community-powered, and built on Solana. Discover $BIFE and join the meme revolution!",
+      "Fair-launched, community-powered, and built on Solana. Discover $BONKIN and join the meme revolution!",
     images:
       "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.pngaos", // <-- Replace if needed
   },

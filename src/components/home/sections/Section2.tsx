@@ -65,9 +65,9 @@ function Section2() {
                 "linear-gradient(to right, #fc8e03 40%, #fc8e03 40%, #ffd302 100%)",
             }}
           >
-            <Header1 className=" text-white ">ABOUT Bife</Header1>
+            <Header1 className=" text-white ">ABOUT BONKIN</Header1>
             <Paragraph1 className="text-white font-bold">
-              Bife IS THE SOCIAL LAYER AND COMMUNITY MEME COIN OF SOLANA WITH
+              BONKIN IS THE SOCIAL LAYER AND COMMUNITY MEME COIN OF SOLANA WITH
               DEEP INTEGRATIONS AS A UTILITY TOKEN ACROSS A WIDE BASE OF
               APPLICATIONS AND PROTOCOLS WITHIN THE WEB3 ECOSYSTEM. WE AIM TO
               ACHIEVE THIS THROUGH EXPANDING OUR GROWING LIST OF INTEGRATIONS
@@ -98,7 +98,7 @@ function Section2() {
                   "linear-gradient(to right, #fc8e03 40%, #fc8e03 40%, #ffd302 100%)",
               }}
             >
-              <Header1 className=" text-white ">USe Bife</Header1>
+              <Header1 className=" text-white ">USe BONKIN</Header1>
 
               <div className="flex gap-4 flex-col mt-4 ">
                 {" "}
@@ -128,12 +128,12 @@ function Section2() {
                   "linear-gradient(to right, #ff5c01 10%, #fc8e03 40%, #ffd302 100%)",
               }}
             >
-              <Header1 className=" text-white ">Get Bife</Header1>
+              <Header1 className=" text-white ">Get BONKIN</Header1>
 
               <div className="flex gap-4 flex-col mt-4 ">
                 {" "}
                 <Paragraph1 className="text-white font-bold">
-                  40+ DEXS & CEXES, BUY Bife TODAY
+                  40+ DEXS & CEXES, BUY BONKIN TODAY
                 </Paragraph1>
               </div>
             </div>
@@ -152,12 +152,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/botsa.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">Bife bot </Header3>
+                <Header3 className=" text-white ">BONKIN bot </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Telegram bot for buying Bife and more{" "}
+                    Telegram bot for buying BONKIN and more{" "}
                   </Paragraph1>
                 </div>
               </div>
@@ -171,7 +171,7 @@ function Section2() {
                 }}
               >
                 <img src="/images/swap.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">Bife SWAP </Header3>
+                <Header3 className=" text-white ">BONKIN SWAP </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
@@ -190,12 +190,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/ware.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">BifeREWARDS </Header3>
+                <Header3 className=" text-white ">BONKINREWARDS </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Earn rewards by locking your $Bife{" "}
+                    Earn rewards by locking your $BONKIN{" "}
                   </Paragraph1>
                 </div>
               </div>{" "}
@@ -229,12 +229,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/bet.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">BifeBETS </Header3>
+                <Header3 className=" text-white ">BONKINBETS </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    A web3 sportsbook by LuckyDragonTail. Bet with Bife, SOL,
+                    A web3 sportsbook by LuckyDragonTail. Bet with BONKIN, SOL,
                     or USDC—no deposits needed.{" "}
                   </Paragraph1>
                 </div>
@@ -249,12 +249,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/scoo.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">Bife SCOOPER </Header3>
+                <Header3 className=" text-white ">BONKIN SCOOPER </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Clean up your wallets and earn Bife{" "}
+                    Clean up your wallets and earn BONKIN{" "}
                   </Paragraph1>
                 </div>
               </div>{" "}
@@ -268,12 +268,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/openb.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">OPENBife </Header3>
+                <Header3 className=" text-white ">OPENBONKIN </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Swap $Bife on OpenBook's DEX{" "}
+                    Swap $BONKIN on OpenBook's DEX{" "}
                   </Paragraph1>
                 </div>
               </div>

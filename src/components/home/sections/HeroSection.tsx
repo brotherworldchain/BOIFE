@@ -45,7 +45,7 @@ const HomePage = () => {
             <div className="flex items-center justify-center">
               <img src="/images/logo2.png" alt="" className=" h-[150px] " />
               <h1 className=" text-[red] text-[50px] sm:text-[150px] font-bold">
-                Bife
+                BONKIN
               </h1>
             </div>
 
