@@ -40,10 +40,14 @@ function ElevatingBrands() {
       //   backgroundPosition: "center",
       // }}
     >
-      <div className="slider-container3 arch-container overflow-hidden relative">
+      <div className="slider-container3 arch-container overflow-hidden- relative">
         <div className="slider-content3 arch flex items-center gap-[45px] animate-slider3">
           {coins.map((coin, index) => (
-            <div key={index} className="item flex-shrink-0 arc-item">
+            <div
+              key={index}
+              className="item flex-shrink-0 arc-item transition-transform duration-300 hover:scale-110"
+            >
+              {" "}
               <a
                 href={`https://www.coingecko.com/en/coins/${coin.id}`}
                 target="_blank"
@@ -59,10 +63,10 @@ function ElevatingBrands() {
           ))}
         </div>
       </div>
-      <div className="flex text-center px-4 items-center justify-center w-full py-[50px] sm:py-[100px] gap-8 sm:gap-20">
+      <div className="flex text-center px-4 items-center justify-center w-full py-[50px] sm:py-[100px] gap-2 sm:gap-20">
         <div
           data-aos="zoom-in-right"
-          className=" border-[6px] rounded-[20px] p-4 sm:px-[50px]"
+          className=" border-[3px] rounded-[20px] p-4 sm:px-[50px]"
           style={{
             // height: "140vh",
             background:
@@ -78,7 +82,7 @@ function ElevatingBrands() {
         </div>
         <div
           data-aos="zoom-in-up"
-          className=" border-[6px] rounded-[20px] p-4 sm:px-[50px]"
+          className=" border-[3px] rounded-[20px] p-4 sm:px-[50px]"
           style={{
             // height: "140vh",
             background:
@@ -96,7 +100,7 @@ function ElevatingBrands() {
         </div>
         <div
           data-aos="zoom-in-left"
-          className=" border-[6px] rounded-[20px] p-4 sm:px-[50px]"
+          className=" border-[3px] rounded-[20px] p-4 sm:px-[50px]"
           style={{
             // height: "140vh",
             background:

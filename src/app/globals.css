@@ -109,7 +109,7 @@ html, body {
 }
 
 .animate-slider3 {
-  animation: slide3 90s linear infinite;
+  animation: slide3 30s linear infinite;
 }
 
 .bounce-animation {
