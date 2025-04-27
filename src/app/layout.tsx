@@ -20,7 +20,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "$BONKIN - Bonk Is For Everyone | The People's Meme Coin",
+  title: "$BONKIN - EVERYTHING IS BONKIN | The People's Meme Coin",
   description:
     "$BONKIN is the fair-launched meme coin for the people, powered by Bonk's revolutionary platform. Join the decentralized meme revolution on Solana!",
   generator:
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
 
   applicationName: "$BONKIN",
   openGraph: {
-    title: "$BONKIN - Bonk Is For Everyone | The People's Meme Coin",
+    title: "$BONKIN - EVERYTHING IS BONKIN | The People's Meme Coin",
     description:
       "Join $BONKIN, the meme coin for everyone! No presales, no whales, just pure community-driven fun on Solana’s Bonk-powered launchpad.",
     url: "https://www.BONKIN.fun", // <-- Update this URL to your real $BONKIN website if different
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
         url: "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.png", // <-- Replace if you have a $BONKIN image
         width: 1200,
         height: 630,
-        alt: "$BONKIN - Bonk Is For Everyone",
+        alt: "$BONKIN - EVERYTHING IS BONKIN",
       },
     ],
   },
