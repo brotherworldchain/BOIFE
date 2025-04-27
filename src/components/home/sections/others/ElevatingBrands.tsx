@@ -52,14 +52,14 @@ function ElevatingBrands() {
                 <img
                   src={coin.image}
                   alt={coin.name}
-                  className="h-[70px] w-auto rounded-full"
+                  className="sm:h-[70px] h-[50px] w-auto rounded-full"
                 />
               </a>
             </div>
           ))}
         </div>
       </div>
-      <div className="flex text-center px-4 items-center justify-center w-full py-[100px] gap-8 sm:gap-20">
+      <div className="flex text-center px-4 items-center justify-center w-full py-[50px] sm:py-[100px] gap-8 sm:gap-20">
         <div
           data-aos="zoom-in-right"
           className=" border-[6px] rounded-[20px] p-4 sm:px-[50px]"

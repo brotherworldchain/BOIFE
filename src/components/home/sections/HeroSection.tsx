@@ -26,7 +26,7 @@ const HomePage = () => {
   return (
     <div
       id="home"
-      className="sm:pt-[50px] uppercase relative - pt-[50px] - bg-gradient-to-b from-secondary via-secondary/120 to-primary"
+      className="sm:pt-[50px] uppercase relative - pt-[100px] - bg-gradient-to-b from-secondary via-secondary/120 to-primary"
       style={{
         // height: "140vh",
         background:
