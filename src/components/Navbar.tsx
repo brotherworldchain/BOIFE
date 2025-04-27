@@ -47,8 +47,8 @@ function Navbar() {
       className={`
     ${
       ["/contact-us"].includes(pathname)
-        ? "  xl:text-black text-white fixed flex w-full z-20 pb-[8px]"
-        : "pb-[8px] bg-primary  fixed flex w-full text-white z-20"
+        ? "  xl:text-black text-white  fixed flex w-full z-[999] pb-[8px]"
+        : "pb-[8px] bg-primary  fixed flex w-full text-white z-[999]"
     }
     ${
       isVisible ? " xl:bg-transparent bg-primary" : "  xl:bg-primary bg-primary"

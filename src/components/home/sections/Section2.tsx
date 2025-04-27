@@ -46,6 +46,7 @@ function Section2() {
 
   return (
     <div
+      id="about"
       className="bg-bg_orange z-50 relative"
       style={{
         // height: "140vh",
@@ -57,7 +58,6 @@ function Section2() {
         <div className=" flex flex-col  gap-[20px]">
           <div
             data-aos="fade-up"
-            id="about"
             className=" border-[6px] rounded-[20px] p-4 sm:p-8"
             style={{
               // height: "140vh",
@@ -139,7 +139,7 @@ function Section2() {
             </div>
           </div>
 
-          <div data-aos="fade-up" id="projects" className="mt-[20px]">
+          <div data-aos="fade-up" id="projects" className="pt-[70px]">
             <Header1>Key projects</Header1>
             <div className=" grid sm:grid-cols-4 grid-cols-1 gap-4 mt-4">
               <div
