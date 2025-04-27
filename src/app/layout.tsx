@@ -77,7 +77,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     site: "@BONKINcoin", // <-- Make sure this is your real Twitter handle
-    title: "$BONKIN - BONKIN Is For Everyone | The People's Meme Coin",
+    title: "$BONKIN - EVERYTHING IS BONKIN | The People's Meme Coin",
     description:
       "Fair-launched, community-powered, and built on Solana. Discover $BONKIN and join the meme revolution!",
     images:
