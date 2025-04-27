@@ -1,18 +1,27 @@
 /** @format */
 
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import Button from "@/components/Button";
 import { Header1, Paragraph3, ParagraphLink1 } from "@/components/Text";
 import Link from "next/link";
 import ElevatingBrands from "./others/ElevatingBrands";
+import AOS from "aos";
 
 const HomePage = () => {
+
+   useEffect(() => {
+      AOS.init({
+        duration: 1000,
+      });
+   }, []);
+  
   const imageUrls = [
     "https://res.cloudinary.com/dvao98wnj/image/upload/v1738849472/lagos-pic-13_nc3jec.jpg",
     "https://res.cloudinary.com/dvao98wnj/image/upload/v1738849472/385327d1_edited_a943_1_nhssvp.webp",
     "https://res.cloudinary.com/dvao98wnj/image/upload/v1738849472/lagos-pic-13_nc3jec.jpg",
   ];
+
 
   return (
     <div

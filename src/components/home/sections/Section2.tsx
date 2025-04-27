@@ -56,6 +56,7 @@ function Section2() {
       <div className="container1 uppercase  mx-auto py-[50px] xl:py-[110px] text-white px-6">
         <div className=" flex flex-col  gap-[20px]">
           <div
+            data-aos="fade-up"
             id="about"
             className=" border-[6px] rounded-[20px] p-4 sm:p-8"
             style={{
@@ -64,9 +65,9 @@ function Section2() {
                 "linear-gradient(to right, #fc8e03 40%, #fc8e03 40%, #ffd302 100%)",
             }}
           >
-            <Header1 className=" text-white ">ABOUT BONK</Header1>
+            <Header1 className=" text-white ">ABOUT BOife</Header1>
             <Paragraph1 className="text-white font-bold">
-              BONK IS THE SOCIAL LAYER AND COMMUNITY MEME COIN OF SOLANA WITH
+              BOife IS THE SOCIAL LAYER AND COMMUNITY MEME COIN OF SOLANA WITH
               DEEP INTEGRATIONS AS A UTILITY TOKEN ACROSS A WIDE BASE OF
               APPLICATIONS AND PROTOCOLS WITHIN THE WEB3 ECOSYSTEM. WE AIM TO
               ACHIEVE THIS THROUGH EXPANDING OUR GROWING LIST OF INTEGRATIONS
@@ -89,6 +90,7 @@ function Section2() {
           <div className="grid md:grid-cols-2 gap-8 xl:gap-[20px] mt-[10px] ">
             {" "}
             <div
+              data-aos="fade-up"
               className=" border-[6px] rounded-[20px] p-4 sm:p-8"
               style={{
                 // height: "140vh",
@@ -118,6 +120,7 @@ function Section2() {
               </div>
             </div>
             <div
+              data-aos="fade-up"
               className=" border-[6px] rounded-[20px] p-4 sm:p-8"
               style={{
                 // height: "140vh",
@@ -130,16 +133,17 @@ function Section2() {
               <div className="flex gap-4 flex-col mt-4 ">
                 {" "}
                 <Paragraph1 className="text-white font-bold">
-                  40+ DEXS & CEXES, BUY BONK TODAY
+                  40+ DEXS & CEXES, BUY BOife TODAY
                 </Paragraph1>
               </div>
             </div>
           </div>
 
-          <div id="projects" className="mt-[20px]">
-            <Header1>Key pprojects</Header1>
+          <div data-aos="fade-up" id="projects" className="mt-[20px]">
+            <Header1>Key projects</Header1>
             <div className=" grid sm:grid-cols-4 grid-cols-1 gap-4 mt-4">
               <div
+                data-aos="fade-up"
                 className=" border-[6px] flex flex-col items-center text-center gap-2 rounded-[20px] p-4 sm:p-8"
                 style={{
                   // height: "140vh",
@@ -158,6 +162,7 @@ function Section2() {
                 </div>
               </div>
               <div
+                data-aos="fade-right"
                 className=" border-[6px] flex flex-col items-center text-center gap-2 rounded-[20px] p-4 sm:p-8"
                 style={{
                   // height: "140vh",
@@ -176,6 +181,7 @@ function Section2() {
                 </div>
               </div>{" "}
               <div
+                data-aos="fade-left"
                 className=" border-[6px] flex flex-col items-center text-center gap-2 rounded-[20px] p-4 sm:p-8"
                 style={{
                   // height: "140vh",
@@ -194,6 +200,7 @@ function Section2() {
                 </div>
               </div>{" "}
               <div
+                data-aos="fade-up"
                 className=" border-[6px] flex flex-col items-center text-center gap-2 rounded-[20px] p-4 sm:p-8"
                 style={{
                   // height: "140vh",
@@ -213,6 +220,7 @@ function Section2() {
                 </div>
               </div>{" "}
               <div
+                data-aos="fade-right"
                 className=" border-[6px] flex flex-col items-center text-center gap-2 rounded-[20px] p-4 sm:p-8"
                 style={{
                   // height: "140vh",
@@ -232,6 +240,7 @@ function Section2() {
                 </div>
               </div>{" "}
               <div
+                data-aos="fade-left"
                 className=" border-[6px] flex flex-col items-center text-center gap-2 rounded-[20px] p-4 sm:p-8"
                 style={{
                   // height: "140vh",
@@ -250,6 +259,7 @@ function Section2() {
                 </div>
               </div>{" "}
               <div
+                data-aos="fade-up"
                 className=" border-[6px] flex flex-col items-center text-center gap-2 rounded-[20px] p-4 sm:p-8"
                 style={{
                   // height: "140vh",

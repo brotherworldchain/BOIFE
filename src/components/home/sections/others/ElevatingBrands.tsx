@@ -61,6 +61,7 @@ function ElevatingBrands() {
       </div>
       <div className="flex text-center items-center justify-center w-full py-[100px] gap-8 sm:gap-20">
         <div
+          data-aos="zoom-in-right"
           className=" border-[6px] rounded-[20px] p-4 sm:px-[50px]"
           style={{
             // height: "140vh",
@@ -76,6 +77,7 @@ function ElevatingBrands() {
           </div>
         </div>
         <div
+          data-aos="zoom-in-up"
           className=" border-[6px] rounded-[20px] p-4 sm:px-[50px]"
           style={{
             // height: "140vh",
@@ -93,6 +95,7 @@ function ElevatingBrands() {
           </div>
         </div>
         <div
+          data-aos="zoom-in-left"
           className=" border-[6px] rounded-[20px] p-4 sm:px-[50px]"
           style={{
             // height: "140vh",

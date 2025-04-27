@@ -81,7 +81,7 @@ export const metadata: Metadata = {
     description:
       "Fair-launched, community-powered, and built on Solana. Discover $BOIFE and join the meme revolution!",
     images:
-      "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.png", // <-- Replace if needed
+      "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.pngaos", // <-- Replace if needed
   },
 };
 
