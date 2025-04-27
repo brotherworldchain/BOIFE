@@ -34,7 +34,7 @@ const HomePage = () => {
       }}
     >
       <img
-        src="/images/bgEthe.png"
+        src="https://res.cloudinary.com/dfwdzot6l/image/upload/v1745725334/IMG_1965_vjikl9.png"
         className=" absolute sm:-bottom-[300px] bottom-0"
         alt=""
       />
@@ -44,7 +44,9 @@ const HomePage = () => {
           <div className="text-center">
             <div className="flex items-center justify-center">
               <img src="/images/logo2.png" alt="" className=" h-[150px] " />
-              <h1 className=" text-[red] text-[50px] sm:text-[150px] font-bold">Boife</h1>
+              <h1 className=" text-[red] text-[50px] sm:text-[150px] font-bold">
+                Boife
+              </h1>
             </div>
 
             <Paragraph3 className="mt-6">MORE THAN ORDINARY [DOG]</Paragraph3>
