@@ -65,9 +65,9 @@ function Section2() {
                 "linear-gradient(to right, #fc8e03 40%, #fc8e03 40%, #ffd302 100%)",
             }}
           >
-            <Header1 className=" text-white ">ABOUT $EIB</Header1>
+            <Header1 className=" text-white ">ABOUT $BOIFE</Header1>
             <Paragraph1 className="text-white font-bold">
-              $EIB IS THE SOCIAL LAYER AND COMMUNITY MEME COIN OF SOLANA WITH
+              $BOIFE IS THE SOCIAL LAYER AND COMMUNITY MEME COIN OF SOLANA WITH
               DEEP INTEGRATIONS AS A UTILITY TOKEN ACROSS A WIDE BASE OF
               APPLICATIONS AND PROTOCOLS WITHIN THE WEB3 ECOSYSTEM. WE AIM TO
               ACHIEVE THIS THROUGH EXPANDING OUR GROWING LIST OF INTEGRATIONS
@@ -98,7 +98,7 @@ function Section2() {
                   "linear-gradient(to right, #fc8e03 40%, #fc8e03 40%, #ffd302 100%)",
               }}
             >
-              <Header1 className=" text-white ">USe $EIB</Header1>
+              <Header1 className=" text-white ">USe $BOIFE</Header1>
 
               <div className="flex gap-4 flex-col mt-4 ">
                 {" "}
@@ -128,12 +128,12 @@ function Section2() {
                   "linear-gradient(to right, #ff5c01 10%, #fc8e03 40%, #ffd302 100%)",
               }}
             >
-              <Header1 className=" text-white ">Get $EIB</Header1>
+              <Header1 className=" text-white ">Get $BOIFE</Header1>
 
               <div className="flex gap-4 flex-col mt-4 ">
                 {" "}
                 <Paragraph1 className="text-white font-bold">
-                  40+ DEXS & CEXES, BUY $EIB TODAY
+                  40+ DEXS & CEXES, BUY $BOIFE TODAY
                 </Paragraph1>
               </div>
             </div>
@@ -152,12 +152,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/botsa.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">$EIB bot </Header3>
+                <Header3 className=" text-white ">$BOIFE bot </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Telegram bot for buying $EIB and more{" "}
+                    Telegram bot for buying $BOIFE and more{" "}
                   </Paragraph1>
                 </div>
               </div>
@@ -171,7 +171,7 @@ function Section2() {
                 }}
               >
                 <img src="/images/swap.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">$EIB SWAP </Header3>
+                <Header3 className=" text-white ">$BOIFE SWAP </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
@@ -190,12 +190,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/ware.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">$EIB REWARDS </Header3>
+                <Header3 className=" text-white ">$BOIFE REWARDS </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Earn rewards by locking your $$EIB{" "}
+                    Earn rewards by locking your $$BOIFE{" "}
                   </Paragraph1>
                 </div>
               </div>{" "}
@@ -229,12 +229,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/bet.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">$EIB BETS </Header3>
+                <Header3 className=" text-white ">$BOIFE BETS </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    A web3 sportsbook by LuckyDragonTail. Bet with $EIB, SOL,
+                    A web3 sportsbook by LuckyDragonTail. Bet with $BOIFE, SOL,
                     or USDC—no deposits needed.{" "}
                   </Paragraph1>
                 </div>
@@ -249,12 +249,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/scoo.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">$EIB SCOOPER </Header3>
+                <Header3 className=" text-white ">$BOIFE SCOOPER </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Clean up your wallets and earn $EIB{" "}
+                    Clean up your wallets and earn $BOIFE{" "}
                   </Paragraph1>
                 </div>
               </div>{" "}
@@ -268,12 +268,12 @@ function Section2() {
                 }}
               >
                 <img src="/images/openb.png" className="h-[150px]" alt="" />
-                <Header3 className=" text-white ">OPEN $EIB </Header3>
+                <Header3 className=" text-white ">OPEN $BOIFE </Header3>
 
                 <div className="flex gap-4 flex-col  ">
                   {" "}
                   <Paragraph1 className="text-white d">
-                    Swap $EIB on OpenBook's DEX{" "}
+                    Swap $BOIFE on OpenBook's DEX{" "}
                   </Paragraph1>
                 </div>
               </div>

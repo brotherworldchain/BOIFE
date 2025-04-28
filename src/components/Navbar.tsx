@@ -70,7 +70,7 @@ function Navbar() {
               alt=""
               className="xl:h-[51px] h-[41px] xl:flex hidden-"
             />
-            <p className="  text-[18px] font-bold">EVERYTHING IS BONKIN</p>
+            <p className="  text-[18px] font-bold">BONK IS FOR EVERYONE</p>
           </Link>
           <div className="lg:hidden">
             <button onClick={toggleMenu} className="focus:outline-none">

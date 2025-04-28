@@ -21,11 +21,11 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title:
-    "$EVERYTHING IS BONKIN - $EIB Is For Everyone | The People's Meme Coin",
+    "$BOIFE - BONK IS FOR EVERYONE Is For Everyone | The People's Meme Coin",
   description:
-    "$EVERYTHING IS BONKIN is the fair-launched meme coin for the people, powered by Bonk's revolutionary platform. Join the decentralized meme revolution on Solana!",
+    "$BONK IS FOR EVERYONE is the fair-launched meme coin for the people, powered by Bonk's revolutionary platform. Join the decentralized meme revolution on Solana!",
   generator:
-    "$EVERYTHING IS BONKIN, meme coin, Bonk, Solana meme coins, community coin, fair launch crypto, decentralized meme tokens, viral crypto, Bonk platform, letsbonk.fun",
+    "$BONK IS FOR EVERYONE, meme coin, Bonk, Solana meme coins, community coin, fair launch crypto, decentralized meme tokens, viral crypto, Bonk platform, letsbonk.fun",
   keywords: [
     "meme coin",
     "Bonk meme coin",
@@ -36,10 +36,10 @@ export const metadata: Metadata = {
     "viral crypto projects",
     "bonk-powered launch",
     "letsbonk.fun",
-    "$EVERYTHING IS BONKIN",
+    "$BONK IS FOR EVERYONE",
     "Solana blockchain",
     "Bonk Is For Everyone",
-    "EVERYTHING IS BONKIN community",
+    "BONK IS FOR EVERYONE community",
     "Bonk launchpad",
     "anti-whale launch",
     "airdrops and meme contests",
@@ -59,30 +59,30 @@ export const metadata: Metadata = {
     "people's meme coin",
   ],
 
-  applicationName: "$EVERYTHING IS BONKIN",
+  applicationName: "$BONK IS FOR EVERYONE",
   openGraph: {
     title:
-      "$EVERYTHING IS BONKIN - $EIB Is For Everyone | The People's Meme Coin",
+      "$BOIFE - BONK IS FOR EVERYONE  Is For Everyone | The People's Meme Coin",
     description:
-      "Join $EVERYTHING IS BONKIN, the meme coin for everyone! No presales, no whales, just pure community-driven fun on Solana’s Bonk-powered launchpad.",
-    url: "https://www.EVERYTHING IS BONKIN.fun", // <-- Update this URL to your real $EVERYTHING IS BONKIN website if different
-    siteName: "$EVERYTHING IS BONKIN",
+      "Join $BONK IS FOR EVERYONE, the meme coin for everyone! No presales, no whales, just pure community-driven fun on Solana’s Bonk-powered launchpad.",
+    url: "https://www.BONK IS FOR EVERYONE.fun", // <-- Update this URL to your real $BONK IS FOR EVERYONE website if different
+    siteName: "$BONK IS FOR EVERYONE",
     images: [
       {
-        url: "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.png", // <-- Replace if you have a $EVERYTHING IS BONKIN image
+        url: "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.png", // <-- Replace if you have a $BONK IS FOR EVERYONE image
         width: 1200,
         height: 630,
-        alt: "$EVERYTHING IS BONKIN - $EIB Is For Everyone",
+        alt: "$BOIFE IS FOR EVERYONE - BONK Is For Everyone",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@EVERYTHING IS BONKINcoin", // <-- Make sure this is your real Twitter handle
+    site: "@BONK IS FOR EVERYONE coin", // <-- Make sure this is your real Twitter handle
     title:
-      "$EVERYTHING IS BONKIN - $EIB Is For Everyone | The People's Meme Coin",
+      "$BOIFE - BONK IS FOR EVERYONE Is For Everyone | The People's Meme Coin",
     description:
-      "Fair-launched, community-powered, and built on Solana. Discover $EVERYTHING IS BONKIN and join the meme revolution!",
+      "Fair-launched, community-powered, and built on Solana. Discover $BONK IS FOR EVERYONE and join the meme revolution!",
     images:
       "https://bonkcoin.com/static/media/bonkog_800.18d79e1cea6b283f2ee7.pngaos", // <-- Replace if needed
   },
